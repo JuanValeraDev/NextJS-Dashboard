@@ -5,3 +5,7 @@ loguearse, páginas de seguimiento protegidas por autenticación y la opción de
 facturas. 
 
 Puedes visitar la URL donde se aloja el proyecto con Vercel aquí: https://next-js-dashboard-eta-eight.vercel.app/dashboard
+
+Para loguearte puedes usar estas credenciales: 
+  - User: user@nextmail.com
+  - Password: 123456
